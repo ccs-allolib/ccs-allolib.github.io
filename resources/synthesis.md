@@ -5,7 +5,7 @@ title: "Synthesis"
 description: "Books and other resources about basic music synthesis"
 ---
 
-# {{page.title} - {{page.description}}
+# {{page.title}} - {{page.description}}
 
 ## Books
 
