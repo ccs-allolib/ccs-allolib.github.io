@@ -5,7 +5,7 @@ title: "Music Theory"
 description: "Books and other resources about music theory"
 ---
 
-# {{page.title} - {{page.description}}
+# {{page.title}} - {{page.description}}
 
 ## Books
 
