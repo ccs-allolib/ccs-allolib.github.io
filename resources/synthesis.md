@@ -17,4 +17,4 @@ description: "Books and other resources about basic music synthesis"
 ## Online Books
 
 * <http://musicandcomputersbook.com/>
-* <http://www.csun.edu/~dwh50750/IntroToMusicTech/Ch3-spectrum_view.html>
+* <http://www.csun.edu/~dwh50750/IntroToMusicTech/index.html>
