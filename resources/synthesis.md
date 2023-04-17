@@ -14,3 +14,6 @@ description: "Books and other resources about basic music synthesis"
 * "Analysis, Synthesis, and Perception of Musical Sounds", Editor: James Beauchamp.
   - Full text link (may required UCSB VPN): <https://link.springer.com/book/10.1007/978-0-387-32576-7>
 
+## Online Books
+
+* <http://musicandcomputersbook.com/>
