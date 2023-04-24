@@ -18,3 +18,7 @@ description: "Books and other resources about basic music synthesis"
 
 * <http://musicandcomputersbook.com/>
 * <http://www.csun.edu/~dwh50750/IntroToMusicTech/index.html>
+
+## Websites
+
+* <https://www.soundonsound.com/techniques/practical-percussion-synthesis-timpani>
