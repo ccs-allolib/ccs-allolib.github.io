@@ -9,3 +9,5 @@ description: "Online resources Allolib"
 
 * [Allolib Documentation](https://allosphere-research-group.github.io/allolib-doc/)
 * [Gamma Documentation](https://w2.mat.ucsb.edu/gamma/)
+  - OG Gamma from Lance Putnum: <https://github.com/LancePutnam/Gamma>
+  - Current Fork maintained by Allosphere Research Group: <https://github.com/AlloSphere-Research-Group/Gamma>
