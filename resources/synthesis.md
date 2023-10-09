@@ -26,3 +26,7 @@ description: "Books and other resources about basic music synthesis"
 ## Videos
 
 * Windytan's Waves <https://www.youtube.com/channel/UC3nWZVaXJ5HHWQ908bFdH1Q>
+
+# Other
+
+* Range of attack transient: 0.001 from percussion, to at most 0.2 seconds (per Joann K.M.)
