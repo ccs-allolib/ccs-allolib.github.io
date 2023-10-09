@@ -22,3 +22,7 @@ description: "Books and other resources about basic music synthesis"
 ## Websites
 
 * <https://www.soundonsound.com/techniques/practical-percussion-synthesis-timpani>
+
+## Videos
+
+* Windytan's Waves <https://www.youtube.com/channel/UC3nWZVaXJ5HHWQ908bFdH1Q>
