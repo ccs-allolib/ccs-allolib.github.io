@@ -26,6 +26,7 @@ description: "Books and other resources about basic music synthesis"
 ## Videos
 
 * Windytan's Waves <https://www.youtube.com/channel/UC3nWZVaXJ5HHWQ908bFdH1Q>
+* ADSR: <https://www.youtube.com/watch?v=aitRs893ado>
 
 # Other
 
