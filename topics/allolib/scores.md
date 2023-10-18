@@ -19,7 +19,7 @@ The part we want to focus on is the part near the bottom:
 This provides a sequencer feature where you can press `Record` and record a sequence of notes
 that you play on the keyboard.  You can then play back these sequences.
 
-The sequences are stored in a file with the name you give it, and the extension `.synthsequence'.  They are
+The sequences are stored in a file with the name you give it, and the extension `.synthsequence`.  They are
 stored in a `bin` subdirectory in the same directory where the source code is found.   Under that directory,
 you'll find a subdirectory with the same name as the instrument (e.g. `SineEnv`) followed by the suffix `-data`.  
 
