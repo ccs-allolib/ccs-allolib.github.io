@@ -1,11 +1,9 @@
 ---
-parent: Agile
+parent: Allolib
 grand_parent: Topics
 layout: default
-title: "Agile: Estimates"
-description:  "Also known as points poker or planning poker"
-indent: true
-category_prefix: "Agile: "
+title: "Allolib: Scores"
+description:  ".synthsequence files"
 ---
 
 Many of the example programs in {{site.ap}} have a feature where you can record sequences.
