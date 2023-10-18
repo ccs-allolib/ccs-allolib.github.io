@@ -24,7 +24,8 @@ Here are some more explanations of each of these sections.
 
 # 2. Define instrument (`SynthVoice`)
 
-
+* header file for SynthVoice: [`allolib/include/al/scene/al_SynthVoice.hpp`](https://github.com/AlloSphere-Research-Group/allolib/blob/master/include/al/scene/al_SynthVoice.hpp)
+* [documentation for `SynthVoice`](https://allosphere-research-group.github.io/allolib-doc/classal_1_1_synth_voice.html)
 
 # 3. Define `App` (user interface)
 
