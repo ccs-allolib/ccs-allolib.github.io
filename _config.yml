@@ -10,6 +10,8 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.3"
 
+ap: "[Allolib Playground](https://github.com/AlloSphere-Research-Group/allolib_playground)"
+
 # Aux links for the upper right navigation
 aux_links:
   "S23":
