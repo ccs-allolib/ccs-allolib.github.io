@@ -18,6 +18,7 @@ description: "Books and other resources about basic music synthesis"
 
 * <http://musicandcomputersbook.com/>
 * <http://www.csun.edu/~dwh50750/IntroToMusicTech/index.html>
+* <https://msp.ucsd.edu/techniques/latest/book-html/>
 
 ## Websites
 
