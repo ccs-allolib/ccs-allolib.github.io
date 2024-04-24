@@ -14,3 +14,4 @@ This website is a collection of course materials for "Introduction to Allolib", 
 The course was designed by Phill Conrad, and is  taught in UCSB's College of Creative Studies (CCS). It is cross listed as a Computer Science course in the College of Engineering.
 
 * [Allolib Documentation](https://allosphere-research-group.github.io/allolib-doc/)
+* To-Do: Link Gamma documentation
